@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "version": "1.2.8",
+  "releaseDate": "YYYY-MM-DD",
+  "releaseNotes": "Describe the verified changes.",
+  "asset": {
+    "type": "zip",
+    "url": "https://github.com/Korea01k/moa-updates/releases/download/v1.2.8/MOA-1.2.8.zip",
+    "sha256": "REPLACE_WITH_LOWERCASE_SHA256",
+    "size": 0
+  },
+  "signature": "GENERATED_OFFLINE_WITH_ED25519_PRIVATE_KEY"
+}
